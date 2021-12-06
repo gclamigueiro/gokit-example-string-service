@@ -102,7 +102,7 @@ curl -XPOST -d'{"s":"hello, world"}' localhost:8080/uppercase
 curl -XPOST -d'{"s":"hello, world"}' localhost:8080/count
 
 
-***References***
- Most of the texts are from go kit documentation 
-<https://gokit.io/faq/>
-<https://gokit.io/examples/stringsvc.html>
+***References***  
+Most of the texts are from go kit documentation  
+<https://gokit.io/faq/>  
+<https://gokit.io/examples/stringsvc.html> 
